@@ -6,3 +6,7 @@ LICENSE
 
 # Ignore environment files
 server/.env
+
+# Dependency directories
+**node_modules/
+node_modules/
