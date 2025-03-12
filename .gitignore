@@ -1,0 +1,5 @@
+# Ignore npm configuration file
+.npmrc
+
+# Ignore License file
+LICENSE
