@@ -41,5 +41,5 @@ weather-dashboard/
 
 ## Deployment
 - Hosted on **Render**
-- **Live URL:** _[insert link]_
+- **Live URL:** (https://weather-dashboard-2dxs.onrender.com/)
 
